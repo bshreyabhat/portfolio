@@ -1909,7 +1909,9 @@ textarea.form-input::-webkit-resizer { display: none; }
   flex-wrap: wrap;
   gap: 20px;
 }
-
+a.contact-link{
+  color: #FEC663;
+}
 .info-column {
   flex: 1 1 300px; /* Adjust width as needed */
   padding: 20px;
